@@ -1,0 +1,20 @@
+1
+4.0
+0.6
+1000000
+20.0
+20
+0.05
+
+// ********************************************************************************** //
+// Definição de parâmetros para a execução do simulacao:
+//
+// eg;
+// Constante de atração;
+// Temperatura;
+// Número máximo de corridas;
+// Aresta da caixa que conterá os polímeros;
+// Número máximo previsto de ligações pi seguidas;
+// Taxa de reptation.
+//
+// ********************************************************************************** //
